@@ -1,0 +1,4 @@
+package bigtask
+
+class AuthorWithStatus {
+}
